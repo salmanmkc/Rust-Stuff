@@ -1,4 +1,4 @@
 
 fn main() {
-    println!("Hello, world!");
+    use ferris_says::say;
 }
